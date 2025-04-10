@@ -32,6 +32,7 @@ conda install -c conda-forge wandb
 - Run the following command to train the model.
 ```html
 python -m alter model=lrbgt dataset=ABIDE
+```
 
 ## Citation
 If you use our code, please consider citing our work:
