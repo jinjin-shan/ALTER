@@ -32,3 +32,15 @@ conda install -c conda-forge wandb
 - Run the following command to train the model.
 ```html
 python -m alter model=lrbgt dataset=ABIDE
+
+## Citation
+If you use our code, please consider citing our work:
+```html
+@inproceedings{
+yu2024longrange,
+title={Long-range Brain Graph Transformer},
+author={Shuo Yu and Shan Jin and Ming Li and Tabinda Sarwar and Feng Xia},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024}
+}
+```
